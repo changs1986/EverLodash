@@ -1,0 +1,19 @@
+{
+    "name": "ever/lodash",
+    "description": "Normalizaton of php functions",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Ever Ryan",
+            "email": "evercyan@qq.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.3"
+    },
+    "autoload": {
+        "psr-4": {
+            "ever\\lodash\\": "src/ever/lodash/"
+        }
+    }
+}
