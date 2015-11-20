@@ -2,17 +2,19 @@
     "name": "ever/lodash",
     "description": "Lodash for PHP",
     "license": "MIT",
+    "homepage": "https://github.com/everCyan/EverLodash",
     "authors": [
         {
             "name": "Ever Ryan",
-            "email": "evercyan@qq.com"
+            "email": "evercyan@qq.com",
+            "homepage": "https://github.com/everCyan"
         }
     ],
     "require": {
         "php": ">=5.3"
     },
     "autoload": {
-        "psr-4": {
+        "psr-0": {
             "": "src/"
         }
     }
