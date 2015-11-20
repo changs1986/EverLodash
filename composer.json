@@ -3,6 +3,7 @@
     "description": "Lodash for PHP",
     "license": "MIT",
     "homepage": "https://github.com/everCyan/EverLodash",
+    "minimum-stability": "dev",
     "authors": [
         {
             "name": "Ever Ryan",
