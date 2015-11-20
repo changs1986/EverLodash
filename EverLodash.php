@@ -3,7 +3,7 @@
  * Lodash for PHP
  * Ryan 2015.11.20
  */
-namespace EverCyan;
+namespace Ever;
 Class Lodash {
     const LEFT = 'left';
     const RIGHT = 'right'; 
