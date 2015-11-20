@@ -1,6 +1,6 @@
 {
-    "name": "ever/lodash",
-    "description": "Normalizaton of php functions",
+    "name": "evercyan/lodash",
+    "description": "Lodash for PHP",
     "license": "MIT",
     "authors": [
         {
@@ -13,7 +13,7 @@
     },
     "autoload": {
         "psr-4": {
-            "ever\\lodash\\": "src/ever/lodash/"
+            "": "src/"
         }
     }
 }
