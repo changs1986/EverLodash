@@ -1,9 +1,9 @@
 [<img src="https://travis-ci.org/alairock/lodash-php.svg">](https://travis-ci.org/alairock/lodash-php)
 # EverLodash
 
-> Ryan 2015.11.22
-> GitHub : https://github.com/everCyan/EverLodash
-> Composer : https://packagist.org/packages/ever/lodash
+> Ryan 2015.11.22   
+> GitHub : https://github.com/everCyan/EverLodash   
+> Composer : https://packagist.org/packages/ever/lodash   
 
 ---
 
