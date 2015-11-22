@@ -1,14 +1,15 @@
 {
     "name": "ever/lodash",
-    "description": "Lodash for PHP",
     "license": "MIT",
+    "description": "Lodash for PHP",
     "homepage": "https://github.com/everCyan/EverLodash",
     "minimum-stability": "dev",
     "authors": [
         {
-            "name": "Ever Ryan",
+            "name": "Ryan",
             "email": "evercyan@qq.com",
-            "homepage": "https://github.com/everCyan"
+            "homepage": "https://github.com/everCyan",
+            "role": "Developer"
         }
     ],
     "require": {
